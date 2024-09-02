@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to commit and push changes to github.
 
 **I struggled with:** (repeat as needed)
-- .
+- I didn't struggle since I am already familiar with github.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Not required.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20 ] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I didn't use any links, books for this assignment.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I completed all the task without any help
